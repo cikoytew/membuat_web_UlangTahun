@@ -1,0 +1,21 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron img {
+    width: 200px;
+    border: 5px solid #333;
+}
+
+
+.pink {
+    color: salmon;
+}
+
+kata {
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
